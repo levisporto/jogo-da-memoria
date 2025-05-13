@@ -3,8 +3,12 @@
 }
 
 .title {
-    margin-top: 30%;
+    margin-top: 20%;
     text-align: center;
+}
+
+h1 {
+    color: aliceblue;
 }
 
 .parent {
