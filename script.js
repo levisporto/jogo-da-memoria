@@ -46,7 +46,7 @@ function turn7(){
 }
 function turn8(){
     alert("cuzin")
-    card7.src ="img/8.jpg"
+    card8.src ="img/8.jpg"
 }
 function turn9(){
     alert("cuzin")
